@@ -1,0 +1,15 @@
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.csproj.AssemblyReference.cache
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.AssemblyInfoInputs.cache
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.AssemblyInfo.cs
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.csproj.CoreCompileInputs.cache
+D:\bukemp_Works\Bukemp013_Sorted_Count\bin\Debug\net6.0\Bukemp013_Sorted_Count.exe
+D:\bukemp_Works\Bukemp013_Sorted_Count\bin\Debug\net6.0\Bukemp013_Sorted_Count.deps.json
+D:\bukemp_Works\Bukemp013_Sorted_Count\bin\Debug\net6.0\Bukemp013_Sorted_Count.runtimeconfig.json
+D:\bukemp_Works\Bukemp013_Sorted_Count\bin\Debug\net6.0\Bukemp013_Sorted_Count.dll
+D:\bukemp_Works\Bukemp013_Sorted_Count\bin\Debug\net6.0\Bukemp013_Sorted_Count.pdb
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.dll
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\refint\Bukemp013_Sorted_Count.dll
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.pdb
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\Bukemp013_Sorted_Count.genruntimeconfig.cache
+D:\bukemp_Works\Bukemp013_Sorted_Count\obj\Debug\net6.0\ref\Bukemp013_Sorted_Count.dll
